@@ -1,1 +1,1 @@
-# A  simple desktop Calulator-App
+# Calulator-App
